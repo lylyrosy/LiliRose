@@ -177,6 +177,6 @@ color: whitesmoke;
 
     z-index: 50;
 
-    @media(max-width:650px){top:3%;}
+    @media(max-width:650px){top:3%; left:90%}
 
 }
