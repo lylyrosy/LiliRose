@@ -26,6 +26,11 @@ position: absolute;
     transform: translate(-50%,-50%);
 
 }
+
+p{
+
+    margin-left: 50%;
+  }
   .icon {
     display: block;
     cursor: pointer;
