@@ -68,9 +68,9 @@ opacity: 0.8;
 .cat:hover
 {
 
-    color: rgb(49, 0, 41);
-    font-size: 25px;
-    padding: 10px 15px;
+/*     color: rgb(49, 0, 41);
+    font-size: 25px; */
+/*     padding: 10px 15px; */
   
     pointer-events: none;   
 
@@ -107,7 +107,7 @@ font-weight: bold;
       background-color:whitesmoke; 
       position: absolute;
 
-      top: 40px;
+      top: 50px;
 
       width: 160px;
       border-top: 5px solid pink;
