@@ -186,7 +186,7 @@ font-size: 20px;
 font-size: 15px;
   letter-spacing: 1px;
   border: 2px dotted whitesmoke;
- padding: 10px 15px;
+ padding: 10px 10px;
 }  
 
 /* .bx  c'est label.bl si on veut simplifier*/
@@ -200,7 +200,7 @@ font-size: 15px;
   border: 2px dotted whitesmoke;
 margin-left: 0px;  
 
-padding: 10px 15px;
+padding: 10px 10px;
 
 
 } 
@@ -215,12 +215,12 @@ font-size: 15px;
   letter-spacing: 1px;
   border: 2px dotted rgb(214, 183, 183);
 border-radius: 15px;
-padding: 10px 15px;
+padding: 10px 10px;
 
 
 }
 
-.souscategmob li{    padding: 10px 15px;
+.souscategmob li{    padding: 10px 10px;
 }
 
 .souscategmob li a:hover{ 
