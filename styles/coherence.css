@@ -153,13 +153,13 @@ object-fit: cover;
     
     }
 
-
+   a{
+        z-index:500;
+    }
 }
 
 
-    a{
-        z-index:500;
-    }
+ 
 
 
 }
