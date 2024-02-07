@@ -53,7 +53,7 @@ il faut que le left sous menu ne soit pas trop eloigné de son menu parent
 {
 
     color: rgb(49, 0, 41);
-    font-size: 25px;
+    font-size: 22px;
     padding: 10px 15px;
   
 opacity: 0.8;
@@ -66,7 +66,7 @@ opacity: 0.8;
 {
 
 /*     color: rgb(49, 0, 41);
-    font-size: 25px;
+    font-size: 22px;
     padding: 10px 15px; */
   
     pointer-events: none; 
