@@ -156,12 +156,11 @@ object-fit: cover;
 
 }
 
-a{
-    position: absolute;
 
+    a{
+        z-index:500;
+    }
 
-text-decoration: none;
-color: whitesmoke;
 
 }
 
@@ -177,6 +176,6 @@ color: whitesmoke;
 
     z-index: 50;
 
-    @media(max-width:650px){top:3%; left:90%}
+    @media(max-width:768px){top:3%;}
 
 }
