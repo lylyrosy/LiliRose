@@ -164,3 +164,19 @@ text-decoration: none;
 color: whitesmoke;
 
 }
+
+.fa-rotate-left{
+
+    position: absolute;
+   
+    font-size: 30px;
+    top: 5%;
+    left: 85%;
+    transform: translate(-50%,-50%);
+    color: bisque;
+
+    z-index: 50;
+
+    @media(max-width:768px){top:3%;}
+
+}
