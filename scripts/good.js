@@ -7,9 +7,9 @@ const art_img=document.querySelector("#artist")
 const art_name=document.querySelector("#name")
 const playsong=document.querySelector("#playsong")
 
-const artist_name=[ 'Sinfonia in C Major, RV 112','Strings Concerto in B-Flat Minor, RV 164','Sinfonia in C Major, RV 112:','Orchestral Suite No. 2 in B Minor, BWV 1067',]
+const artist_title=[ 'Sinfonia in C Major, RV 112','Strings Concerto in B-Flat Minor, RV 164','Sinfonia in C Major, RV 112:','Orchestral Suite No. 2 in B Minor, BWV 1067',]
 
-const artist_title=[ 'III. Presto', ' II. Adagio','I. Allegro','VII. Badinerie',]
+const artist_name=[ 'III. Presto', ' II. Adagio','I. Allegro','VII. Badinerie',]
 
 
 
