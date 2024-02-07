@@ -157,6 +157,22 @@ object-fit: cover;
 }
 
 
+.fa-rotate-left{
+
+    position: absolute;
+   
+    font-size: 30px;
+    top: 5%;
+    left: 85%;
+    transform: translate(-50%,-50%);
+    color: bisque;
+
+    z-index: 500;
+
+    @media(max-width:768px){top:3%;}
+
+}
+
  
 
 
