@@ -164,7 +164,7 @@ object-fit: cover;
 
 }
 
-a.fa-rotate-left{
+.fa-rotate-left{
 
     position: absolute;
    
@@ -174,7 +174,7 @@ a.fa-rotate-left{
     transform: translate(-50%,-50%);
     color: bisque;
 
-    z-index: 50;
+    z-index: 500;
 
     @media(max-width:768px){top:3%;}
 
