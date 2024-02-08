@@ -120,7 +120,7 @@ ibalise.addEventListener("click", (params) => {
 
     
     film.classList.toggle("pause")
-    stop=setInterval(monruban, 20)
+    stop=setInterval(monruban, 25)
   console.log(stop)
 
   }
