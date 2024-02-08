@@ -191,18 +191,13 @@ left: calc(50% + 220px) }
     left: calc(50% + 440px)
 }
 
-.slide .item:nth-child(5)
+.slide .item:nth-child(n+5)
 {
     left: calc(50% + 660px);
       opacity:0;
 
 }  
-.slide .item:nth-child(n+6)
-{
-    left: calc(50% + 880px);
-   opacity:0;
-
-}  
+ 
 
 
 
