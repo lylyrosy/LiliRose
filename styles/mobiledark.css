@@ -180,6 +180,7 @@ font-size: 15px;
 letter-spacing: 1px;
 border: 2px dotted whitesmoke;
 padding: 10px 10px;
+   margin-left:-10px;
 
 }
 
@@ -197,19 +198,19 @@ margin-bottom: 2px;
   font-size: 15px;
     letter-spacing: 1px;
     border: 2px dotted whitesmoke;
-    margin-left: 0px;  
+    margin-left: -10px;  
 
     padding: 10px 10px;
   
   }
 
-  .bl{margin-left: 5px;}
+  .bl{margin-left: -10px;}
   .bl:hover{
 
   
     text-decoration: none;
     color: black;
-  font-size: 18px;
+  font-size: 15px;
     letter-spacing: 1px;
    font-weight: bold;
  border: none;
@@ -324,7 +325,7 @@ color: whitesmoke;}
 
     .fa-heart-pulse
     {
-     position:absolute; right:30px; 
+     position:absolute; right:20px; 
    font-size: 25px; color: rgb(150, 12, 31);}
 
    .fa-fish-fins{
