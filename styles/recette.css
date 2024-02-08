@@ -73,7 +73,7 @@ body{
 
 .slide .item:nth-child(n+6)
 {
-    left: calc(50% + 660px);
+    left: calc(50% + 880px);
     opacity: 0;
 
 }  
