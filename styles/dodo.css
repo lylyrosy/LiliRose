@@ -10,7 +10,11 @@
 iframe
 { width:560px; height:315px;
 
+    @media (max-width:800px) {
 
+        width:400px;
+        
+    }
 }
 
 section
