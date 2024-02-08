@@ -10,11 +10,6 @@
 iframe
 { width="560"; height="315";
 
-     @media (max-width:800px) {
-
-    width="400";
-
-    }
 
 }
 
