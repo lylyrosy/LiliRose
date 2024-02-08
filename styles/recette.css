@@ -217,7 +217,7 @@ left: calc(50% + 220px) }
 {
     left: calc(50% + 660px);
    
-
+opacity:0;
 }  
 
 .slide .item:nth-child(6)
