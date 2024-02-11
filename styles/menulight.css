@@ -70,17 +70,20 @@ opacity: 0.8;
 
 /*     color: rgb(49, 0, 41);
     font-size: 25px; 
-    padding: 10px 15px; */
-  
+    padding: 10px 15px; 
+    
+    
     pointer-events: none;   
+    */
+  
 
 
 
 }
 
 .catsous:hover{    
-    color: rgb(214, 48, 156);
-background-color: rgba(99, 234, 255, 0.219);
+  font-weight: bold;
+
 padding: 15px 0px;
 }
 
@@ -101,8 +104,8 @@ padding: 15px 0px;
 
 {
 
-color: rgb(214, 48, 156);
-background-color: rgba(99, 234, 255, 0.219);
+  font-weight: bold;
+
 padding: 15px 0px;
 }
 
