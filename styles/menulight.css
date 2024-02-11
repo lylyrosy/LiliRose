@@ -98,7 +98,9 @@ opacity: 0.8;
 
 {
 
-   color: rgb(112, 10, 87);
+   font-weight:bold;
+font-size: 17px;
+padding: 20px 0px;
 }
 
 .souscateg{
