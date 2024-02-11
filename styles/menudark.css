@@ -67,16 +67,19 @@ opacity: 0.8;
 
 /*     color: rgb(49, 0, 41);
     font-size: 25px;
-    padding: 10px 15px; */
+    padding: 10px 15px;
+        pointer-events: none; 
+    
+    */
   
-    pointer-events: none; 
+
 
 
 }
 
 .catsous:hover{    
-    color:rgb(218, 119, 32);
-    background-color: rgba(236, 164, 236, 0.388);
+  font-weight: bold;
+
     padding: 15px 0px;
 }
 
@@ -97,8 +100,8 @@ opacity: 0.8;
 .souscateg li a:hover
 
 {
-color:rgb(218, 119, 32);
-    background-color: rgba(236, 164, 236, 0.388);
+  font-weight: bold;
+
     padding: 15px 0px;
 }
 
