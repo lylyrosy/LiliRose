@@ -78,7 +78,10 @@ opacity: 0.8;
 
 }
 
-.catsous:hover{    pointer-events: none;   
+.catsous:hover{    
+    color: rgb(214, 48, 156);
+background-color: rgba(99, 234, 255, 0.219);
+padding: 15px 0px;
 }
 
 .souscateg li a{ 
