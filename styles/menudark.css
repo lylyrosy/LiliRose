@@ -94,8 +94,9 @@ opacity: 0.8;
 .souscateg li a:hover
 
 {
-font-weight: bold;
-
+font-weight:bold;
+font-size: 17px;
+padding: 20px 0px;
 }
 
 .souscateg{
