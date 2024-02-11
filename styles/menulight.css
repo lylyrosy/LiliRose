@@ -91,6 +91,8 @@ padding: 15px 0px;
 
     text-decoration: none;
     color: black;
+    display:block;
+
  
     letter-spacing: 1px;
    
@@ -103,7 +105,7 @@ padding: 15px 0px;
 .souscateg li a:hover
 
 {
-
+display:block;
   font-weight: bold;
 
 padding: 15px 0px;
