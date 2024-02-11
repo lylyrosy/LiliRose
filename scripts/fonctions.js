@@ -35,6 +35,9 @@ const rainheart = (params) => {
         console.log(rain.style.left)
     
     
+        setTimeout(() => { clearInterval(stop)}, 5000);
+    
+    setTimeout(() => {parentheart.remove()}, 6000);
     
     
     
@@ -46,10 +49,7 @@ const rainheart = (params) => {
     
     
     
-    setTimeout(() => { clearInterval(stop)}, 5000);
-    
-    setTimeout(() => {parentheart.remove()}, 6000);
-    
+
     //je peux pas faire un remove pour la heart box car elle doit reserver sa place dans le code html donc je crée un parent dans js que je peux supprimer et recréer 
     
        
