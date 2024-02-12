@@ -1,0 +1,43 @@
+
+
+body{
+    background: url(../imgs/vue.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+   
+
+
+    
+}
+
+h1{
+    text-align: center;
+    font-family: 'Sacramento', cursive;;
+    font-size: 40px;
+}
+
+.container {
+
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+
+}
+
+p{
+
+    margin-top: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    width: 60%;
+}
+
+.design{
+
+    font-family: 'Nothing You Could Do', cursive;;
+}
