@@ -39,5 +39,9 @@ p{
 
 .design{
 
-    font-family: 'Nothing You Could Do', cursive;;
+    
+            font-family: "Space Mono", monospace;
+            font-weight: 700;
+            font-style: normal;
+
 }
