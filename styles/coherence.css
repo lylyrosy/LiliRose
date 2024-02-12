@@ -44,10 +44,10 @@ border-radius: 10px;
 
 }
 
-.fa-moon:hover{    text-shadow:0 0 40px rgb(223, 112, 112), 0 0 40px rgb(29, 120, 177),  0 0 40px rgb(1, 1, 8);  
+.fa-moon:hover{    text-shadow:0 0 40px rgb(223, 112, 112), 0 0 40px rgb(29, 120, 177),  0 0 40px rgb(1, 1, 8);  cursor:pointer;
 }
 
-.dark .fa-moon:hover{    text-shadow:0 0 40px rgb(232, 166, 166), 0 0 40px rgb(211, 172, 209),  0 0 40px rgb(255, 110, 185);  
+.dark .fa-moon:hover{    text-shadow:0 0 40px rgb(232, 166, 166), 0 0 40px rgb(211, 172, 209),  0 0 40px rgb(255, 110, 185);   cursor:pointer;
 }
 
 .container h1{
