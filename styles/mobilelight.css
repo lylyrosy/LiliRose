@@ -282,12 +282,12 @@ font-size: 15px;
 
 
 
- .fa-envelope-open{
+ .fa-folder-open{
   position:absolute; right:70px ; margin-top: -40px; 
   font-size: 30px; color: bisque;
  }
 
-.fa-envelope{position:absolute; right:20px;
+.fa-folder-closed{position:absolute; right:20px;
    display: block; font-size: 30px; } 
 
 
@@ -301,7 +301,7 @@ font-size: 15px;
  
 {position:absolute;
   
-  right: 30px;
+  right: 20px;
   
    font-size: 25px; color: rgb(51, 213, 81);
 
@@ -353,7 +353,7 @@ font-size: 15px;
 
     .fa-book {
 
-      position:absolute; right:30px; 
+      position:absolute; right:20px; 
     font-size: 25px; color: rgb(58, 27, 8);
       
 
@@ -361,7 +361,7 @@ font-size: 15px;
 
     .fa-person-swimming
     {
-      position:absolute; right:30px; 
+      position:absolute; right:20px; 
     font-size: 25px; color: rgb(98, 194, 219);}
     
    .fa-heart-pulse
