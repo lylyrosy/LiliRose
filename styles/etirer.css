@@ -239,7 +239,12 @@ background-color:#0005;
         cursor: pointer;
         color: rgb(170, 156, 139);        
     }
-  
+
+
+ a{color: var(--texte) ;}
+a:hover{color: var(--lifh) ;}
+
+
     @keyframes pluie 
     {
   
