@@ -20,16 +20,25 @@ const image=document.querySelectorAll(".image")
 console.log(image)
 
 
+
 image[image.length-1].addEventListener("click",(params) =>
+ {
+    window.open("https://www.youtube.com/@wimhof1", "_blank");
+
+} )
+
+
+image[image.length-2].addEventListener("click",(params) =>
  {
     window.open("https://www.youtube.com/channel/UC7JpQ9SvvYral2rRpO9AUCA", "_blank");
 
 } )
 
 
+
 image.forEach((element,index) => {
 
-    if(index!=image.length-1){
+    if(index<image.length-2){
 
         element.addEventListener("click", 
 () => {
