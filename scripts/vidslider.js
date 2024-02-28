@@ -76,7 +76,7 @@ i--;
 
     
 }
-// let stop= setInterval(monruban,20)
+ let stop= setInterval(monruban,25)
 
 
   
@@ -102,60 +102,60 @@ ibalise.addEventListener("click", (params) => {
 
 
 
-//  film.addEventListener("click", (params) => {
+ film.addEventListener("click", (params) => {
 
 
-//  if (film.classList.contains("pause")) 
+ if (film.classList.contains("pause")) 
   
-//  {
- //   clearInterval(stop); film.classList.toggle("pause");
+  {
+   clearInterval(stop); film.classList.toggle("pause");
 
  
 
-//   } 
+  } 
    
    
- //  else
- //  {
+  else
+  {
 
     
-   // film.classList.toggle("pause")
-  //  stop=setInterval(monruban, 25)
-  //console.log(stop)
+   film.classList.toggle("pause")
+   stop=setInterval(monruban, 25)
+  console.log(stop)
 
- // }
+  }
     
-//  })
+ })
 
 
 
-  let stop= setInterval(monruban,15)
+ // let stop= setInterval(monruban,15)
 
 
-  setTimeout(() => {
+ // setTimeout(() => {
  
- clearInterval(stop)
+ //clearInterval(stop)
  
- }, 9000);
- 
- 
+ //}, 9000);
  
  
  
-   film.addEventListener("click", (params) => {
+ 
+ 
+   //film.addEventListener("click", (params) => {
  
  
  
     
      
  
-     let stop= setInterval(monruban,15)
+    // let stop= setInterval(monruban,15)
  
  
-     setTimeout(() => {
+   //  setTimeout(() => {
     
-    clearInterval(stop)
+//    clearInterval(stop)
     
-    }, 7000);
-  })
+  //  }, 7000);
+  //})
  
