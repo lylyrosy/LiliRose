@@ -89,4 +89,9 @@ const random = (params) => {
   return random
 }
 
+const tab = (params) => {
 
+  window.location.href = "https://lylyrosy.github.io/lilirosedash";
+
+  
+}
